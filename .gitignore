@@ -6,7 +6,6 @@ project.lock.json
 nupkg/
 
 # Visual Studio Code
-.vscode
 
 # Rider
 .idea
@@ -38,3 +37,5 @@ msbuild.wrn
 
 Log/
 VisualDumps/
+config.bat
+node_modules
